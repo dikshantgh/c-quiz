@@ -11,7 +11,7 @@ void main()
    getch();
 
    cout<<endl<<"---------##MENU##---------"<<endl;
-   cout<<endl<<">>PRESS S,THEN ENTER KEY TO play THE QUIZ"<<endl<<">>PRESS Q, THEn ENTER KEY TO EXIT THE GAME"<<endl;
+   cout<<endl<<">>PRESS S,THEN ENTER KEY TO play THE QUIZ"<<endl<<">>PRESS Q, THEN ENTER KEY TO EXIT THE GAME"<<endl;
    char z;
    cin>>z;
    if(z=='q')
