@@ -5,7 +5,7 @@
 int flag=0;
 void main()
 {
-	cout<<"#############"<<"  WELCOME TO THE QUIZ SHOW  BY DIKKU"<<"*************"<<endl;
+	cout<<"#############||}|}|}|"<<"  WELCOME TO THE QUIZ SHOW  BY DIKKU"<<"*************"<<endl;
    cout<<endl<<setw(20)<<setfill('-');
    cout<<"press any key"<<endl;
    getch();
